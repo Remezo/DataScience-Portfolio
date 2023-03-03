@@ -39,7 +39,6 @@ Contributors names and contact info
 [@MikeRemezo(https://www.linkedin.com/in/mike-remezo/)
 
 
-
 ## License
 
 This project is licensed under the [Mike Remezo] License - see the LICENSE.md file for details
