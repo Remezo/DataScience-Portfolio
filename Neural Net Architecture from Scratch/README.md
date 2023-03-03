@@ -28,9 +28,6 @@ using Flux: onehotbatch, onecold, CUDA
 
 
 
-
-```
-
 ## Help
 
 This project was fun and took me a long time to wrap my head around it. so I'd be happy to help you understand this code and walk you through it! Just let me know what specific questions you have or what parts of the code you would like me to explain.
