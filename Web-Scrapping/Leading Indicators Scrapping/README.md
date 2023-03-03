@@ -25,12 +25,12 @@ You can find a sample output called Data Summary in this Repo
 ### Dependencies
 
 * pandas, openpyxl, json, numpy, datetime, holidays, os, pyquery, math, sys, datetime and sqlalchemy
-* You need to create a fred account to get your own API
+
 
 ### Installing
 
 * Get your FRED API
-* Create an AWS RDS Database. There is a free version but be careful as sometimes they will charge if you hit certain limits.
+* Create an AWS RDS Database. There is a free version but be careful as sometimes they will charge your account if you hit certain limits.
 
 
 
