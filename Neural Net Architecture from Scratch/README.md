@@ -4,7 +4,7 @@ Implementing a neural network from scratch is a valuable exercise for anyone see
 
 ## Description
 
-AThis code implements components of a neural network including the input layer, hidden layers, activation function, weights and biases, an output layer, loss function, and optimization algorithm. 
+This code implements components of a neural network including the input layer, hidden layers, activation function, weights and biases, an output layer, loss function, and optimization algorithm. 
 * The input layer takes in the input data, while the hidden layers process the input and extract relevant features. 
 *An activation function is applied to the output of each neuron in the hidden layers to introduce non-linearity. 
 * Weights and biases are parameters associated with each neuron that are adjusted during training to optimize the network's performance. 
