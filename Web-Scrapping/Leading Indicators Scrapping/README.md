@@ -9,11 +9,11 @@ This code is a Python script that automate the process of retrieving, processing
 
 The script starts by importing several Python libraries, such as requests, pandas, openpyxl, json, numpy, datetime, holidays, os, pyquery, math, sys, datetime and sqlalchemy. Then, it sets the current directory to a variable path.
 
-The script defines two functions:
+*The script defines two functions:
 
-convert_yyyyq(dates): This function takes a Pandas series of date values (in the format 'yyyyq', where 'q' is the quarter number) and returns a corresponding Pandas series of datetime objects.
+    *convert_yyyyq(dates): This function takes a Pandas series of date values (in the format 'yyyyq', where 'q' is the quarter number) and returns a corresponding Pandas series of datetime objects.
 
-pull_data(data): This function takes a Pandas dataframe data containing information about financial data (including its frequency, source and the name of the data) and returns three Pandas dataframes daily, monthly, quarterly with the corresponding financial data. It also prints success messages to the console while retrieving the data from the sources.
+    *pull_data(data): This function takes a Pandas dataframe data containing information about financial data (including its frequency, source and the name of the data) and returns three Pandas dataframes daily, monthly, quarterly with the corresponding financial data. It also prints success messages to the console while retrieving the data from the sources.
 
 After defining the functions, the script reads an Excel file with financial data using the read_excel method from the pandas library. It then loops through each sheet in the Excel file, retrieves the data using the pull_data function, and stores it into a SQL database using the create_engine function from the sqlalchemy library.
 
