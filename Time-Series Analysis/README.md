@@ -39,12 +39,12 @@ command to run if program contains helper info
 ## Authors/ TEAM GREEN DREAM
 
 
-[Mike remezo](https://www.linkedin.com/in/mike-remezo/)
-__Megan A__
-__Shrredhar__
-__Steve__
+* [Mike remezo](https://www.linkedin.com/in/mike-remezo/)
+* __Megan A__
+* __Shrredhar__
+* __Steve__
 
-![alt text for screen readers](/BestUseofCloud.jpeg "Green Dream Team").
+* <img src="bestUseofCloud.jpeg" alt="Green Dream team" style="height: 150px; width:150px;"/>
 
 
 ## Acknowledgments
