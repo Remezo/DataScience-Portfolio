@@ -44,7 +44,7 @@ command to run if program contains helper info
 * __Shrredhar__
 * __Steve__
 
-* <img src="BestUseofCloud.jpeg" alt="Green Dream team" style="height: 150px; width:150px;"/>
+ <img src="BestUseofCloud.jpeg" alt="Green Dream team" />
 
 
 ## Acknowledgments
